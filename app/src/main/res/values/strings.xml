@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TechnologyHelper</string>
+    <string name="tz">Технологические защиты</string>
+    <string name="block">Блокировки</string>
+    <string name="image">IMAGE</string>
+</resources>
